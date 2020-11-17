@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab8_1</string>
+    <string name="clear_history">Clear</string>
+    <string name="Next"><![CDATA[->]]></string>
+    <string name="Back"><![CDATA[<-]]></string>
+</resources>
