@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2_3</string>
+    <string-array name="Faculty">
+        <item>ФИТиУ</item>
+        <item>ИЭФ</item>
+        <item>ФКСиС</item>
+        <item>ФИК</item>
+        <item>ВФ</item>
+        <item>КТ(ИИТ)</item>
+        <item>ФРЭ</item>
+        <item>ФКП</item>
+    </string-array>
+</resources>
